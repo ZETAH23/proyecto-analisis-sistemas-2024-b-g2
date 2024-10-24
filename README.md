@@ -1,6 +1,6 @@
 # proyecto-analisis-sistemas-2024-b-g2
 
-### Proyecto de Análisis de Sistemas
+### Proyecto de Análisis de Sistemas.
 
 #### Tema proyecto: Gestión de tareas.
 
