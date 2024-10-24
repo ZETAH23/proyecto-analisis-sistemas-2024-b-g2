@@ -2,7 +2,7 @@
 
 ### Proyecto de Análisis de Sistemas.
 
-#### Tema proyecto: Gestión de tareas.
+#### Tema proyecto: Sistema de Gestión de tareas.
 
 Estudiantes: 
 - Yeferson Esmid Heredia Perdomo.
