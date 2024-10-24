@@ -2,7 +2,7 @@
 
 ### Proyecto de Análisis de Sistemas.
 
-#### Tema proyecto: Sistema de Gestión de tareas.
+#### Tema proyecto: Task Manager.
 
 Estudiantes: 
 - Yeferson Esmid Heredia Perdomo.
