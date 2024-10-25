@@ -10,3 +10,6 @@ Estudiantes:
 - Jhon Sebastián Molina Fierro.
 - Karen Johana Caicedo Arias.
 - Oscar Guillermo Sierra Lozano.
+
+### Link Mockup: 
+https://www.figma.com/design/zEOMCveRZePjWazYS53n4M/Untitled?node-id=5-207&t=vExpa35cnH2MFkQo-1
