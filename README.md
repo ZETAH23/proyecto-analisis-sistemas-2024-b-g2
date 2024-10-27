@@ -10,6 +10,10 @@ Estudiantes:
 - Jhon Sebastián Molina Fierro.
 - Karen Johana Caicedo Arias.
 - Oscar Guillermo Sierra Lozano.
+  
+## Repositorio
+- Repositorio del backend : https://github.com/ZETAH23/Bakend_Task_Manager.git
 
-### Link Mockup: 
-https://www.figma.com/design/zEOMCveRZePjWazYS53n4M/Untitled?node-id=5-207&t=vExpa35cnH2MFkQo-1
+## Herramientas de Gestion de Proyectos 
+
+- Figma Mockup: https://www.figma.com/design/zEOMCveRZePjWazYS53n4M/Untitled?node-id=5-207&t=vExpa35cnH2MFkQo-1
